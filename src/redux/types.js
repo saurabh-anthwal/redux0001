@@ -1,0 +1,3 @@
+
+export const REJECT_REQUEST = 'REJECT_REQUEST'
+export const ACCEPT_REQUEST = 'ACCEPT_REQUEST'
